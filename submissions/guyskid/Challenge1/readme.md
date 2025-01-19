@@ -4,9 +4,9 @@ You can access this website it at: [Guyskid](https://fgyarb7kf5de3wumtscdwya3bpk
 
 ## Screenshots Website Menu
 
-![Homepage Screenshot](assets/ss/ss1.jpg)
-![Latest Article Screenshot](assets/ss/ss2.jpg)
-![About](assets/ss/ss3.jpg)
+![Homepage Screenshot](assets/ss/ss1.png)
+![Latest Article Screenshot](assets/ss/ss2.png)
+![About](assets/ss/ss3.png)
 
 ## Description
 
